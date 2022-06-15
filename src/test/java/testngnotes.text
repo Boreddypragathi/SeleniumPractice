@@ -1,0 +1,8 @@
+Testing new generations
+Which can be used only by java
+developers is used to create Unit tests
+Global pre condition @Before Annotations
+test steps  @test
+Need to write actual vs expected-->Assertions
+post actions  @After Annotations
+
